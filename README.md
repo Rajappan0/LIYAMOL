@@ -2,10 +2,10 @@
 <div align="center">
   <img border-radius: 15px src="Remini20210815165916317.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Pikachu" src="https://img.shields.io/badge/Pikachu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="LIYAMOL" src="https://img.shields.io/badge/LIYAMOL-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Rajappan0"><img title="Author" src="https://img.shields.io/badge/Author-Rajappan0/pikachu?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Rajappan0"><img title="Author" src="https://img.shields.io/badge/Author-Rajappan0/LIYAMOL?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -19,13 +19,13 @@ Project created by <a href="https://github.com/Rajappan0">Rajappan0</a> to make 
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Rajappan0/pikachu">
-    <img src="https://img.shields.io/github/repo-size/Rajappan0/pikachu?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/Rajappan0/LIYAMOL">
+    <img src="https://img.shields.io/github/repo-size/Rajappan0/LIYAMOL?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/Rajappan0/followers"><img title="Followers" src="https://img.shields.io/github/followers/Rajappan0?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/Rajappan0/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Rajappan0/pikachu?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/Rajappan0/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Rajappan0/pikachu?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/Rajappan0/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Rajappan0/pikachu?label=Watchers&color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/Rajappan0/LIYAMOL/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Rajappan0/LIYAMOL?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/Rajappan0/LIYAMOL/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Rajappan0/LIYAMOL?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/Rajappan0/LIYAMOL/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Rajappan0/LIYAMOL?label=Watchers&color=f7df1e&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-f7df1e.svg"</a>
 </p>
 
@@ -55,7 +55,7 @@ Click WA logo to Join Support Group 👇
 ## 
   <h3 align="center">📢 Support Group 2:</h3>
 <p align="center">
-Click Pikachu logo to Join Support Group 2👇
+Click LIYAMOL logo to Join Support Group 2👇
     <br>
 <br>
   <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
@@ -68,7 +68,7 @@ Click Pikachu logo to Join Support Group 2👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rajappan0/pikachu.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rajappan0/LIYAMOL.git)
      </div>
 <br>
 <br >
@@ -83,8 +83,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Rajappan0/pikachu
-$ cd pikachu
+$ git clone https://github.com/Rajappan0/LIYAMOL
+$ cd LIYAMOL
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -93,8 +93,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Rajappan0/pikachu
-$ cd pikachu
+$ git clone https://github.com/Rajappan0/LIYAMOL
+$ cd LIYAMOL
 $ chmod +x *
 $ npm i
 $ node qr.js
